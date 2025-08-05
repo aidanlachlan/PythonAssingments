@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9ce5e98-cf3d-46ed-b372-b55f13d29d26" name="Changes" comment="section 1">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonAssingments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonAssingments.iml" afterDir="false" />
+    <list default="true" id="f9ce5e98-cf3d-46ed-b372-b55f13d29d26" name="Changes" comment="section 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,26 +42,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.assignment_01.executor": "Run",
-    "Python.assignment_02.executor": "Run",
-    "Python.assignment_03.executor": "Run",
-    "Python.assignment_04.executor": "Run",
-    "Python.assignment_05.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/lachlan/PycharmProjects/PythonAssingments",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.assignment_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assignment_05.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lachlan/PycharmProjects/PythonAssingments&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -84,7 +83,8 @@
       <option name="presentableId" value="Default" />
       <updated>1753926851399</updated>
       <workItem from="1753926852401" duration="3912000" />
-      <workItem from="1754339692145" duration="2016000" />
+      <workItem from="1754339692145" duration="2860000" />
+      <workItem from="1754413341078" duration="1887000" />
     </task>
     <task id="LOCAL-00001" summary="section 1">
       <option name="closed" value="true" />
@@ -94,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753938611277</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="section 2">
+      <option name="closed" value="true" />
+      <created>1754355209514</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754355209514</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,13 +110,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="section 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="section 1" />
+    <MESSAGE value="section 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="section 2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonAssingments$assignment_03.coverage" NAME="assignment_03 Coverage Results" MODIFIED="1754352550001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonCourse-master/Section_02" />
-    <SUITE FILE_PATH="coverage/PythonAssingments$assignment_01.coverage" NAME="assignment_01 Coverage Results" MODIFIED="1754339803108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonCourse-master/Section_02" />
+    <SUITE FILE_PATH="coverage/PythonAssingments$assignment_03.coverage" NAME="assignment_03 Coverage Results" MODIFIED="1754414969676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonCourse-master/Section_03" />
+    <SUITE FILE_PATH="coverage/PythonAssingments$assignment_01.coverage" NAME="assignment_01 Coverage Results" MODIFIED="1754414033090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonCourse-master/Section_03" />
     <SUITE FILE_PATH="coverage/PythonAssingments$assignment_05.coverage" NAME="assignment_05 Coverage Results" MODIFIED="1753938381269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonCourse-master/Section_01" />
-    <SUITE FILE_PATH="coverage/PythonAssingments$assignment_02.coverage" NAME="assignment_02 Coverage Results" MODIFIED="1754340184682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonCourse-master/Section_02" />
-    <SUITE FILE_PATH="coverage/PythonAssingments$assignment_04.coverage" NAME="assignment_04 Coverage Results" MODIFIED="1754352737287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonCourse-master/Section_02" />
+    <SUITE FILE_PATH="coverage/PythonAssingments$assignment_02.coverage" NAME="assignment_02 Coverage Results" MODIFIED="1754414055359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonCourse-master/Section_03" />
+    <SUITE FILE_PATH="coverage/PythonAssingments$assignment_04.coverage" NAME="assignment_04 Coverage Results" MODIFIED="1754415167811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonCourse-master/Section_03" />
   </component>
 </project>
